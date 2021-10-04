@@ -1,0 +1,9 @@
+.hero-section {
+  background-image: url("../../images/hero-bg.jpg");
+  background-position: center;
+  background-size: cover;
+  height: calc(100vh - 75px);
+}
+.title {
+  font-size: 3.5em;
+}

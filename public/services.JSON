@@ -1,0 +1,83 @@
+[
+    {
+        "id": 301,
+        "name": "Graphics Designing Bootcamp",
+        "price": 190,
+        "instructor": "Mark Henry",
+        "lessons": 32,
+        "students": 1290,
+        "img": "https://image.freepik.com/free-vector/graphic-designer-workspace-concept_1284-18695.jpg"
+    },
+    {
+        "id": 302,
+        "name": "UI/UX Design Principles",
+        "price": 230,
+        "instructor": "Lary Blanche",
+        "lessons": 28,
+        "students": 1915,
+        "img": "https://image.freepik.com/free-vector/flat-ui-ux-background_23-2149065799.jpg"
+    },
+    {
+        "id": 303,
+        "name": "Content Writing",
+        "price": 99,
+        "instructor": "Sara James",
+        "lessons": 21,
+        "students": 1150,
+        "img": "https://image.freepik.com/free-vector/blogging-illustration-concept_114360-788.jpg"
+    },
+    {
+        "id": 304,
+        "name": "Learn Programming Fundamentals",
+        "price": 100,
+        "instructor": "Travis Scot",
+        "lessons": 42,
+        "students": 2390,
+        "img": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 305,
+        "name": "React Crash Course",
+        "price": 119,
+        "instructor": "Jonas Hales",
+        "lessons": 44,
+        "students": 1490,
+        "img": "https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg"
+    },
+    {
+        "id": 306,
+        "name": "Presentation Skill Course",
+        "price": 95,
+        "instructor": "James Don",
+        "lessons": 15,
+        "students": 190,
+        "img": "https://img.freepik.com/free-vector/managers-workshop-training-manager-skills-brainstorming-board_335657-3305.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 307,
+        "name": "Photography Basics",
+        "price": 290,
+        "instructor": "Parsley Montana",
+        "lessons": 35,
+        "students": 1990,
+        "img": "https://image.freepik.com/free-vector/professional-photographer-taking-pictures-young-woman-female-model-posing-camera-against-white-backdrop-among-studio-light-vector-illustration-photo-shooting-photography-concept_74855-10141.jpg"
+    },
+    {
+        "id": 308,
+        "name": "Animation Mastery Bootcamp",
+        "price": 150,
+        "instructor": "Dianne Ameter",
+        "lessons": 40,
+        "students": 1140,
+        "img": "https://image.freepik.com/free-vector/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038.jpg"
+    },
+    {
+        "id": 309,
+        "name": "Premier Pro Video Editing Guides",
+        "price": 149,
+        "instructor": "Thomas R. Toe",
+        "lessons": 52,
+        "students": 3690,
+        "img": "https://img.freepik.com/free-vector/media-player-concept-illustration_114360-3331.jpg?size=338&ext=jpg"
+    }
+]
