@@ -2,6 +2,8 @@
 
 ## Live Link
 
+https://skill-up-react.netlify.app/
+
 ## Used
 
 - React-Bootstrap
